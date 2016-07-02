@@ -6,6 +6,31 @@ body {
   font-family: proxima-nova, 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
+.form-inputs {
+  /*display: block;*/
+  float: center;
+  width: 10em;
+  margin-right: 1em;
+}
+
+.form-actions {
+  float: center;
+  width: 10em;
+  margin-right: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.simple_form {
+  /*text-align: center;*/
+  margin-left: 35em;
+  margin-top: 4em;
+}
+
+.center {
+  text-align: center;
+}
+
 /* ## NAVBAR CUSTOMISATIONS ## */
 
 .navbar-brand {

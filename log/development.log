@@ -15572,3 +15572,223 @@ Started GET "/assets/logo-dc58b4d621ea5899ee27b175ce64e3013c85da63b2b020f2bca3c4
 
 
 Started GET "/assets/bootstrap/glyphicons-halflings-regular-fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c.woff2" for 127.0.0.1 at 2016-05-30 01:18:22 +0100
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2016-07-02 11:31:17 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.haml within layouts/application (225.8ms)
+  Rendered layouts/_navbar.html.haml (3.9ms)
+Completed 200 OK in 1596ms (Views: 1557.8ms | ActiveRecord: 2.8ms)
+
+
+Started GET "/assets/application.self-aea5cc380f05ef7f356dd5cc6a40347e1b066b3beedb22fa683835ba946015ce.css?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/bootstrap/button.self-e74d33ba39500940a78d6fa4d2d64f6ca7fd86d60a2149641f7fde7ba711d8a1.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/bootstrap/alert.self-d8b7bd612b3dcfdefb7b5539b9d5848d66ccbd3e7af8bb8d48bfb3288aaa7be8.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/bootstrap/affix.self-3555752f8a930795ee9e56751a52e6871104ae85d01b3ab8363da3802a5ecc78.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/bootstrap/carousel.self-35d204878d906298e55bc24553e11fd89b980fc4ffe5792fe36af8c0da289c54.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/bootstrap/collapse.self-056c40532d9f0f126ec17e839f60c942f573fbd61a086e7f156306e3fc5e8c1f.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/bootstrap/dropdown.self-e56c2ffee4618411d43ecf15c89273f6223847ad756e1cd17545d04afa732ed4.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/bootstrap/scrollspy.self-52afd90e8ba97d9f08617a13986e8869d6c4a45751c0bff59a6f91241e722aca.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/bootstrap/tab.self-dad0d5c377f9fae26394484535ebb23ccf68afae084f896af6ea4cdf8c9f6ae0.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:19 +0100
+
+
+Started GET "/assets/bootstrap/modal.self-62463080dba6b9d024ff0a3192da0e76eacbc683194f3395047c6f5cfa0acb59.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/assets/bootstrap/transition.self-3b268d4cd8c79e46ded7392885f72f64ffb5b0d49948a12b8cf9779f6163e13a.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/assets/bootstrap/tooltip.self-facdc69246a072acb927ded77ff655f7c27a518b9357fddd45d119fbc8a0ab9f.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/assets/bootstrap/popover.self-210cff1fb4b72b71a29b5122180cb5937c8145cd13a934dc838280f1d9607a3e.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/assets/comments.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/assets/endorsements.self-d9240218c35130f6f6991dd8de76bfd9a8567c3e4ba3fa561855becd19b96cc5.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/assets/posts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/assets/logo-dc58b4d621ea5899ee27b175ce64e3013c85da63b2b020f2bca3c4b58dfa671b.png" for 127.0.0.1 at 2016-07-02 11:31:20 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-02 11:44:23 +0100
+Processing by PostsController#index as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2016-07-02 11:44:23 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (42.1ms)
+  Rendered layouts/_navbar.html.haml (1.0ms)
+Completed 200 OK in 134ms (Views: 125.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/password/new" for 127.0.0.1 at 2016-07-02 11:44:33 +0100
+Processing by Devise::PasswordsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/passwords/new.html.erb within layouts/application (5.6ms)
+  Rendered layouts/_navbar.html.haml (4.8ms)
+Completed 200 OK in 65ms (Views: 64.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/password" for 127.0.0.1 at 2016-07-02 11:44:36 +0100
+Processing by Devise::PasswordsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"aYeSe6SNeNYJbEHAFvbyljK4rDnzB+40mL/Zf8VLDhv7EsAx/FEqgvRheQjHQjFjWvc5XhsD1Gd80mjbncWVtw==", "user"=>{"email"=>"sergio@gmail.com"}, "commit"=>"Send me reset password instructions"}
+  [1m[35mUser Load (14.0ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["email", "sergio@gmail.com"]]
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."reset_password_token" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["reset_password_token", "1043e6c56876512ba67186e6d2dcfb103719ef369a2457982130dc438afda6e5"]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36mSQL (14.7ms)[0m  [1mUPDATE "users" SET "reset_password_token" = $1, "reset_password_sent_at" = $2, "updated_at" = $3 WHERE "users"."id" = $4[0m  [["reset_password_token", "1043e6c56876512ba67186e6d2dcfb103719ef369a2457982130dc438afda6e5"], ["reset_password_sent_at", "2016-07-02 10:44:36.894797"], ["updated_at", "2016-07-02 10:44:36.895677"], ["id", 1]]
+  [1m[35m (12.4ms)[0m  COMMIT
+  Rendered devise/mailer/reset_password_instructions.html.erb (1.4ms)
+
+Devise::Mailer#reset_password_instructions: processed outbound mail in 360.4ms
+
+Sent mail to sergio@gmail.com (50.9ms)
+Date: Sat, 02 Jul 2016 11:44:37 +0100
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: sergio@gmail.com
+Message-ID: <57779b1565939_173c3f7ec003922823593@linux.mail>
+Subject: Reset password instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello sergio@gmail.com!</p>
+
+<p>Someone has requested a link to change your password. You can do this through the link below.</p>
+
+<p><a href="http://localhost:3000/users/password/edit?reset_password_token=Zg6nbQYeVrs4-5V593-5">Change my password</a></p>
+
+<p>If you didn't request this, please ignore this email.</p>
+<p>Your password won't change until you access the link above and create a new one.</p>
+
+Redirected to http://localhost:3000/users/sign_in
+Completed 302 Found in 911ms (ActiveRecord: 41.6ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2016-07-02 11:44:37 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (11.4ms)
+  Rendered layouts/_navbar.html.haml (1.2ms)
+Completed 200 OK in 64ms (Views: 63.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/password/new" for 127.0.0.1 at 2016-07-02 11:46:08 +0100
+Processing by Devise::PasswordsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.7ms)
+  Rendered devise/passwords/new.html.erb within layouts/application (8.2ms)
+  Rendered layouts/_navbar.html.haml (1.6ms)
+Completed 200 OK in 76ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/password" for 127.0.0.1 at 2016-07-02 11:46:11 +0100
+Processing by Devise::PasswordsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W/pfjJuopfplqzcX7PfvEWuj73utHmJyCICJ3iaHMIfJbw3Gw3T3rpimD989QyzkA+x6HEUaWCHs7Th6fgmrKw==", "user"=>{"email"=>"senrech@yahoo.fr"}, "commit"=>"Send me reset password instructions"}
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "senrech@yahoo.fr"]]
+  Rendered devise/shared/_links.html.erb (0.3ms)
+  Rendered devise/passwords/new.html.erb within layouts/application (11.0ms)
+  Rendered layouts/_navbar.html.haml (1.0ms)
+Completed 200 OK in 84ms (Views: 80.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2016-07-02 11:46:34 +0100
+Processing by RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.haml within layouts/application (16.2ms)
+  Rendered layouts/_navbar.html.haml (1.0ms)
+Completed 200 OK in 90ms (Views: 89.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2016-07-02 11:47:04 +0100
+Processing by RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/09CcOjhNy6ilNOFskE5vEsIyJbE2heeTxMwnMueCgZt2hA6sD1lel+Z601j9fpJI0dd8SzeLc2rfoE4kxCRqg==", "user"=>{"email"=>"senrech@yahoo.fr", "user_name"=>"serge", "password"=>"[FILTERED]", "confirm_password"=>"[FILTERED]"}, "commit"=>"Sign up"}
+Unpermitted parameter: confirm_password
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mUser Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."email" = 'senrech@yahoo.fr' LIMIT 1[0m
+  [1m[35mSQL (79.7ms)[0m  INSERT INTO "users" ("email", "user_name", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"  [["email", "senrech@yahoo.fr"], ["user_name", "serge"], ["encrypted_password", "$2a$11$bRO83EXSiSsg9WcjYiH3YeW2a7qsGu0nWcoa1B0LokfMzI3PmGrte"], ["created_at", "2016-07-02 10:47:04.568809"], ["updated_at", "2016-07-02 10:47:04.568809"]]
+  [1m[36m (1.9ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "users" SET "last_sign_in_at" = $1, "current_sign_in_at" = $2, "last_sign_in_ip" = $3, "current_sign_in_ip" = $4, "sign_in_count" = $5, "updated_at" = $6 WHERE "users"."id" = $7[0m  [["last_sign_in_at", "2016-07-02 10:47:04.652726"], ["current_sign_in_at", "2016-07-02 10:47:04.652726"], ["last_sign_in_ip", "127.0.0.1/32"], ["current_sign_in_ip", "127.0.0.1/32"], ["sign_in_count", 1], ["updated_at", "2016-07-02 10:47:04.653429"], ["id", 5]]
+  [1m[35m (1.5ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 285ms (ActiveRecord: 83.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-02 11:47:04 +0100
+Processing by PostsController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 5]]
+  [1m[35mPost Load (236.6ms)[0m  SELECT "posts".* FROM "posts"
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (15.0ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = $1  [["post_id", 15]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 3]]
+  [1m[35m (67.2ms)[0m  SELECT COUNT(*) FROM "endorsements" WHERE "endorsements"."post_id" = $1  [["post_id", 15]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "endorsements" WHERE "endorsements"."post_id" = $1[0m  [["post_id", 15]]
+  Rendered posts/_post.html.haml (801.0ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = $1[0m  [["post_id", 14]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "endorsements" WHERE "endorsements"."post_id" = $1  [["post_id", 14]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "endorsements" WHERE "endorsements"."post_id" = $1[0m  [["post_id", 14]]
+  Rendered posts/_post.html.haml (19.8ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = $1[0m  [["post_id", 17]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "endorsements" WHERE "endorsements"."post_id" = $1  [["post_id", 17]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "endorsements" WHERE "endorsements"."post_id" = $1[0m  [["post_id", 17]]
+  Rendered posts/_post.html.haml (7.1ms)
+  Rendered posts/index.html.haml within layouts/application (1098.6ms)
+  Rendered layouts/_navbar.html.haml (1.4ms)
+Completed 200 OK in 1187ms (Views: 839.3ms | ActiveRecord: 326.9ms)
+
+
+Started POST "/posts/17/endorsements" for 127.0.0.1 at 2016-07-02 11:47:34 +0100
+Processing by EndorsementsController#create as */*
+  Parameters: {"post_id"=>"17"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = $1 LIMIT 1  [["id", 17]]
+  [1m[36m (1.7ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (16.4ms)[0m  INSERT INTO "endorsements" ("post_id", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"  [["post_id", 17], ["created_at", "2016-07-02 10:47:34.130279"], ["updated_at", "2016-07-02 10:47:34.130279"]]
+  [1m[36m (2.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "endorsements" WHERE "endorsements"."post_id" = $1  [["post_id", 17]]
+Completed 200 OK in 35ms (Views: 0.1ms | ActiveRecord: 21.3ms)
